@@ -8,7 +8,7 @@
  *  - If names are provided, it will display "Hello, [Name1], [Name2], ...!" to the console.
  *  - If no names are provided, it will display "Hello, World!"
  *
- * @author Developer Name
+ * @author Prarabdha Sachan
  * @version 4.0
  * @since UC1
  */
